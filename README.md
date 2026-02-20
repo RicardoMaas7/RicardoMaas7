@@ -61,19 +61,11 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details open>
-<summary><h3>📊 Stats & Activity</h3></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMaas7&show_icons=true&theme=tokyonight" alt="RicardoMaas7 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMaas7&langs_count=10&show_icons=true&theme=tokyonight" alt="RicardoMaas7 Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMaas7&show_icons=true&theme=tokyonight&count_private=true" alt="RicardoMaas7 Stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMaas7&langs_count=10&show_icons=true&theme=tokyonight&layout=compact" alt="RicardoMaas7 Top Langs" height="190px" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoMaas7&theme=tokyonight" alt="RicardoMaas7 Streak" />
-</p>
-</details>
-
-<br>
-
-<p align="center">
-  <b>Last Edited on: 20/02/2026</b>
 </p>
