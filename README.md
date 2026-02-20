@@ -62,10 +62,10 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMaas7&show_icons=true&theme=tokyonight&count_private=true" alt="RicardoMaas7 Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMaas7&langs_count=10&show_icons=true&theme=tokyonight&layout=compact" alt="RicardoMaas7 Top Langs" height="190px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RicardoMaas7&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=RicardoMaas7&langs_count=10&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoMaas7&theme=tokyonight" alt="RicardoMaas7 Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RicardoMaas7&theme=tokyonight" alt="Streak Stats" />
 </p>
